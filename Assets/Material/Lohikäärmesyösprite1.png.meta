@@ -1,0 +1,859 @@
+fileFormatVersion: 2
+guid: 8a31dc23a88b53e46b8bdcfc36df19ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9002262332328745200
+    second: "Lohik\xE4\xE4rmesy\xF6sprite1_0"
+  - first:
+      213: -6463714556866101934
+    second: "Lohik\xE4\xE4rmesy\xF6sprite1_1"
+  - first:
+      213: 2819060526744554064
+    second: "Lohik\xE4\xE4rmesy\xF6sprite1_2"
+  - first:
+      213: 9073793976023659876
+    second: "Lohik\xE4\xE4rmesy\xF6sprite1_3"
+  - first:
+      213: 4887684764355422780
+    second: "Lohik\xE4\xE4rmesy\xF6sprite1_4"
+  - first:
+      213: -4502994624863512835
+    second: "Lohik\xE4\xE4rmesy\xF6sprite1_5"
+  - first:
+      213: 7430543662970717537
+    second: "Lohik\xE4\xE4rmesy\xF6sprite1_6"
+  - first:
+      213: -3775183949229349118
+    second: "Lohik\xE4\xE4rmesy\xF6sprite1_7"
+  - first:
+      213: 7933425012101650955
+    second: "Lohik\xE4\xE4rmesy\xF6sprite1_8"
+  - first:
+      213: 4522447322480835048
+    second: "Lohik\xE4\xE4rmesy\xF6sprite1_9"
+  - first:
+      213: 2960363241110744113
+    second: "Lohik\xE4\xE4rmesy\xF6sprite1_10"
+  - first:
+      213: 5486251722874457194
+    second: "Lohik\xE4\xE4rmesy\xF6sprite1_11"
+  - first:
+      213: 8026674498121348398
+    second: "Lohik\xE4\xE4rmesy\xF6sprite1_12"
+  - first:
+      213: 53572114040864616
+    second: "Lohik\xE4\xE4rmesy\xF6sprite1_13"
+  - first:
+      213: 6407194248877652049
+    second: "Lohik\xE4\xE4rmesy\xF6sprite1_14"
+  - first:
+      213: -7952887988170607454
+    second: "Lohik\xE4\xE4rmesy\xF6sprite1_15"
+  - first:
+      213: 2634864593738076225
+    second: "Lohik\xE4\xE4rmesy\xF6sprite1_16"
+  - first:
+      213: -3966267498580944948
+    second: "Lohik\xE4\xE4rmesy\xF6sprite1_17"
+  - first:
+      213: 5596936527410256559
+    second: "Lohik\xE4\xE4rmesy\xF6sprite1_18"
+  - first:
+      213: 3783566151877252972
+    second: "Lohik\xE4\xE4rmesy\xF6sprite1_19"
+  - first:
+      213: 1834493958998925230
+    second: "Lohik\xE4\xE4rmesy\xF6sprite1_20"
+  - first:
+      213: 2800011576230251254
+    second: "Lohik\xE4\xE4rmesy\xF6sprite1_21"
+  - first:
+      213: 8473031551805422205
+    second: "Lohik\xE4\xE4rmesy\xF6sprite1_22"
+  - first:
+      213: -597661811692786471
+    second: "Lohik\xE4\xE4rmesy\xF6sprite1_23"
+  - first:
+      213: 6395048518841507647
+    second: "Lohik\xE4\xE4rmesy\xF6sprite1_24"
+  - first:
+      213: -3809340877931822033
+    second: "Lohik\xE4\xE4rmesy\xF6sprite1_25"
+  - first:
+      213: 6548757495361066792
+    second: "Lohik\xE4\xE4rmesy\xF6sprite1_26"
+  - first:
+      213: 6336815617743955382
+    second: "Lohik\xE4\xE4rmesy\xF6sprite1_27"
+  - first:
+      213: -6901759799407533496
+    second: "Lohik\xE4\xE4rmesy\xF6sprite1_28"
+  - first:
+      213: 5530765374372076889
+    second: "Lohik\xE4\xE4rmesy\xF6sprite1_29"
+  - first:
+      213: -3170684359130156334
+    second: "Lohik\xE4\xE4rmesy\xF6sprite1_30"
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Lohik\xE4\xE4rmesy\xF6sprite1_0"
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 6051
+        width: 1638
+        height: 829
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda02efb634a3964da311454712ea7b2
+      internalID: -9002262332328745200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lohik\xE4\xE4rmesy\xF6sprite1_1"
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 6015
+        width: 1515
+        height: 824
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5eee56f2d635f940a24998c49002871
+      internalID: -6463714556866101934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lohik\xE4\xE4rmesy\xF6sprite1_2"
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 6054
+        width: 460
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9db21646ebc8854eb17d33edb2bce48
+      internalID: 2819060526744554064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lohik\xE4\xE4rmesy\xF6sprite1_3"
+      rect:
+        serializedVersion: 2
+        x: 4227
+        y: 5976
+        width: 1528
+        height: 863
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e4d14f263eeea4f8ceca3d2ac1fbff
+      internalID: 9073793976023659876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lohik\xE4\xE4rmesy\xF6sprite1_4"
+      rect:
+        serializedVersion: 2
+        x: 5216
+        y: 6025
+        width: 456
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b0f2f12914aeb4abdc9358ea1cb12e
+      internalID: 4887684764355422780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lohik\xE4\xE4rmesy\xF6sprite1_5"
+      rect:
+        serializedVersion: 2
+        x: 6278
+        y: 5961
+        width: 1479
+        height: 897
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46eb9ac63864b3b4189e704fecfc92a5
+      internalID: -4502994624863512835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lohik\xE4\xE4rmesy\xF6sprite1_6"
+      rect:
+        serializedVersion: 2
+        x: 8099
+        y: 5918
+        width: 1448
+        height: 931
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7a6027cd9013449a982319a182b0ad
+      internalID: 7430543662970717537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lohik\xE4\xE4rmesy\xF6sprite1_7"
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 4778
+        width: 1405
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86d0b746625acf4ea1fcc58597585ab
+      internalID: -3775183949229349118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lohik\xE4\xE4rmesy\xF6sprite1_8"
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 4778
+        width: 1396
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb65689547ecde48a69f75191a13255
+      internalID: 7933425012101650955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lohik\xE4\xE4rmesy\xF6sprite1_9"
+      rect:
+        serializedVersion: 2
+        x: 4222
+        y: 4681
+        width: 1401
+        height: 1018
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c687a87f1b7c57240a879ac3fe646e09
+      internalID: 4522447322480835048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lohik\xE4\xE4rmesy\xF6sprite1_10"
+      rect:
+        serializedVersion: 2
+        x: 6278
+        y: 4808
+        width: 1402
+        height: 1042
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2830028ab4a96194886f686076c76f26
+      internalID: 2960363241110744113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lohik\xE4\xE4rmesy\xF6sprite1_11"
+      rect:
+        serializedVersion: 2
+        x: 8117
+        y: 5021
+        width: 1411
+        height: 616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ef95f120e072d43b670889bc02e9fb
+      internalID: 5486251722874457194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lohik\xE4\xE4rmesy\xF6sprite1_12"
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 4628
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427ebf44728c4a54090cb845204c5198
+      internalID: 8026674498121348398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lohik\xE4\xE4rmesy\xF6sprite1_13"
+      rect:
+        serializedVersion: 2
+        x: 8146
+        y: 3794
+        width: 1573
+        height: 940
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f356d10b4aef414c83cf5236ff3784c
+      internalID: 53572114040864616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lohik\xE4\xE4rmesy\xF6sprite1_14"
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 3794
+        width: 1420
+        height: 616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5116d8c79af6dfd4e9b87624621e84b7
+      internalID: 6407194248877652049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lohik\xE4\xE4rmesy\xF6sprite1_15"
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 3784
+        width: 1383
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5540c9c6e6557ed43b920b36d68b1d12
+      internalID: -7952887988170607454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lohik\xE4\xE4rmesy\xF6sprite1_16"
+      rect:
+        serializedVersion: 2
+        x: 4227
+        y: 3741
+        width: 1428
+        height: 795
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf119977499890645b125706ee48422e
+      internalID: 2634864593738076225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lohik\xE4\xE4rmesy\xF6sprite1_17"
+      rect:
+        serializedVersion: 2
+        x: 6254
+        y: 3653
+        width: 1493
+        height: 927
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3853123526ce774cbc336bf950093d3
+      internalID: -3966267498580944948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lohik\xE4\xE4rmesy\xF6sprite1_18"
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2446
+        width: 1682
+        height: 940
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcb68084a005be4ea6f30766e780136
+      internalID: 5596936527410256559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lohik\xE4\xE4rmesy\xF6sprite1_19"
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 2485
+        width: 1826
+        height: 940
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a63021dd109b648bf989e0030ef810
+      internalID: 3783566151877252972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lohik\xE4\xE4rmesy\xF6sprite1_20"
+      rect:
+        serializedVersion: 2
+        x: 4280
+        y: 2500
+        width: 1839
+        height: 935
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabdcacad1da5b54396c9d4ad870bb14
+      internalID: 1834493958998925230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lohik\xE4\xE4rmesy\xF6sprite1_21"
+      rect:
+        serializedVersion: 2
+        x: 6332
+        y: 2446
+        width: 1789
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca97b2635b2754a48a45a689cf40a62f
+      internalID: 2800011576230251254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lohik\xE4\xE4rmesy\xF6sprite1_22"
+      rect:
+        serializedVersion: 2
+        x: 7578
+        y: 2485
+        width: 548
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1997249c28da7ad4faa3e5565e6c85aa
+      internalID: 8473031551805422205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lohik\xE4\xE4rmesy\xF6sprite1_23"
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1375
+        width: 1803
+        height: 858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f84124fab377314b950780a7d6642cd
+      internalID: -597661811692786471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lohik\xE4\xE4rmesy\xF6sprite1_24"
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 1384
+        width: 1804
+        height: 911
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6844854ec73ed5049bdaed0783bcb917
+      internalID: 6395048518841507647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lohik\xE4\xE4rmesy\xF6sprite1_25"
+      rect:
+        serializedVersion: 2
+        x: 4203
+        y: 1370
+        width: 1795
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1472c93083c1f49a922c7d5ab8083d
+      internalID: -3809340877931822033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lohik\xE4\xE4rmesy\xF6sprite1_26"
+      rect:
+        serializedVersion: 2
+        x: 6254
+        y: 1346
+        width: 1796
+        height: 872
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4cb6c7c1a8d81499c5939401c5c1ad
+      internalID: 6548757495361066792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lohik\xE4\xE4rmesy\xF6sprite1_27"
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 187
+        width: 1794
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decd1ee3493bb24438e71e0592b7c9e1
+      internalID: 6336815617743955382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lohik\xE4\xE4rmesy\xF6sprite1_28"
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 201
+        width: 1794
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f369d56cd88b4bc49b57afcc9b419015
+      internalID: -6901759799407533496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lohik\xE4\xE4rmesy\xF6sprite1_29"
+      rect:
+        serializedVersion: 2
+        x: 4203
+        y: 216
+        width: 1794
+        height: 858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b1f89b6fcc4ef4f808135e4c3b6eb1
+      internalID: 5530765374372076889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lohik\xE4\xE4rmesy\xF6sprite1_30"
+      rect:
+        serializedVersion: 2
+        x: 6254
+        y: 216
+        width: 1794
+        height: 858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a434118c6c25649a09f18e1aadc9f8
+      internalID: -3170684359130156334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
